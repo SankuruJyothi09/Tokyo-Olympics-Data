@@ -1,2 +1,0 @@
-# Olypics_test
-test
