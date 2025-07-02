@@ -1,0 +1,12 @@
+{
+	"name": "Coacheshttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/SankuruJyothi09/Tokyo-Olympics-Data/refs/heads/main/Coaches.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
