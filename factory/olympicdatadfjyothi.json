@@ -1,0 +1,9 @@
+{
+	"name": "olympicdatadfjyothi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "affb9639-9f61-43da-8dd2-8eae43a3ba88",
+		"tenantId": "0233b5d5-6421-498c-a723-8f02cc51740f"
+	}
+}
